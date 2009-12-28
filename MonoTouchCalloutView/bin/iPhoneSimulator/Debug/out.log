@@ -1,0 +1,10 @@
+TestView.Initialize
+AppDelegate.FinishedLaunching
+TestView.TouchesBegan
+TestView.TouchesEnded
+TestView.HandleCalloutClick
+TestView.TouchesBegan
+TestView.TouchesEnded
+TestView.TouchesBegan
+TestView.TouchesEnded
+Error connecting stdout and stderr (127.0.0.1:10001)
