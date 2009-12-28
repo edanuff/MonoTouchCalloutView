@@ -1,0 +1,10 @@
+This example project demonstrates how to create a CalloutView similar
+to the UICalloutView that's used in the iPhone Map application.
+
+This is done without using any undocumented calls, the CalloutView is
+constructed using a regulare UIView subclass and consists of a set
+of three UIImageViews, a UILabel, and a UIButton.
+
+Although this example is written in MonoTouch, it's not using any
+Mono-specific classes, so converting it to Objective-C should be
+straightforward.
